@@ -41,3 +41,17 @@ It follows a structured data analysis pipeline from raw data to actionable insig
 - Identified important correlations between features and heart disease outcome.
 
 ---
+### 6 Modeling
+- Built a machine learning classification model to predict heart disease presence.
+- Trained the model using engineered features.
+- Evaluated model performance using appropriate metrics.
+
+---
+
+### 7 Hyperparameter Tuning
+- Optimized model hyperparameters to improve predictive performance.
+- Applied systematic tuning techniques (e.g. grid search).
+- Selected the best-performing model configuration.
+
+---
+
