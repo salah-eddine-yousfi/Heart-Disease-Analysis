@@ -1,4 +1,12 @@
 # 🫀 Heart Disease Analysis
+> **Written and edited by:** Salah Eddine YOUSFI  
+> **Date:** 28/12/2025
+
+
+Do not hesitate to contact me through my LinkedIn profile  
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/salah-eddine-yousfi-b2532a375/)
 
 ## 📌 Project Overview
 This project presents a concise exploratory analysis of heart disease data to identify
