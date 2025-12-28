@@ -62,7 +62,7 @@ It follows a structured data analysis pipeline from raw data to actionable insig
 - Selected the best-performing model configuration.
 
 ---
-**N.B.:** This project was carried out for educational purposes and skills practice.
+*Note:* This project was carried out for educational purposes and skills practice.
 ---
 Please feel free to reach out to me through my LinkedIn Profile if you have any further questions or would like to discuss this study in more detail.
 
